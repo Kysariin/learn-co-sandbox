@@ -7,3 +7,4 @@ def cool_thing_that_will_appear(number)
 end
 
 puts cool_thing_that_will_appear(1)
+
